@@ -47,6 +47,10 @@ Code Files:
 WeatherPy.ipynb
 VacationPy.ipynb
 
+Data Folder:
+cities.csv
+.png image files of images
+
 
 ## WeatherPy Challenge Objectives
 
