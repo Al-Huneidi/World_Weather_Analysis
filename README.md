@@ -42,6 +42,10 @@ Analysis of the data is split into three main parts, or stages.
 	◦	Find a hotel from the cities’ coordinates using Google’s Maps and Places API, and Search Nearby feature.
 	◦	Store the name of the first hotel in the DataFrame.
 	◦	Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
+	
+Code Files:
+WeatherPy.ipynb
+VacationPy.ipynb
 
 
 ## WeatherPy Challenge Objectives
