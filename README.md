@@ -81,6 +81,8 @@ cities.csv
 	7.	Save the new DataFrame as a CSV file to be used for Part 2.
 	8.	Upload the CSV file as part of your submission as WeatherPy_challenge.csv.
 	9.	Answer this question using Pandas methods: How many cities have recorded rainfall or snow?
+		64 cities have rainfall.
+		27 cities have snowfall.
 
 New DataFrame Image:
 
