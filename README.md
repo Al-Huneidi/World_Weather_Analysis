@@ -106,8 +106,8 @@ New DataFrame Image:
 	5.	Save and upload the new DataFrame as WeatherPy_vacation.csv.
 	6.	Save and upload the new marker layer map as WeatherPy_vacation_map.png.
 
-Hotel DataFrame Image:
-
+First 5 rows of Hotel DataFrame Image:
+![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/Part_2_dataframe.png)
 
 Marker Layer Map Image:
 ![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/WeatherPy_vacation_map.png)
