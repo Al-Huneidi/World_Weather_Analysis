@@ -112,8 +112,8 @@ First 5 rows of Hotel DataFrame Image:
 Marker Layer Map Image:
 ![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/WeatherPy_vacation_map.png)
 
-Pop-up Marker Map for Each City Image:
-
+Pop-up Marker Map for 1 City Image:
+![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/Part_2_%20Pop-up_map.png)
 
 ### Part 3 Instructions - Create a Travel Itinerary with a Corresponding Map
 Create a map (travel itinerary) that shows the route between four cities from the customer’s possible travel destinations, and then create a map with pop-up markers for the four cities.
