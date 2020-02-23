@@ -51,6 +51,9 @@ Data Folder:
 cities.csv
 .png image files of images
 
+New Dataframe Image:
+![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/Part_1_Dataframe.png)
+
 
 ## WeatherPy Challenge Objectives
 
