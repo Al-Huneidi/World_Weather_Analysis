@@ -110,7 +110,7 @@ Hotel DataFrame Image:
 
 
 Marker Layer Map Image:
-
+![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/WeatherPy_vacation_map.png)
 
 Pop-up Marker Map for Each City Image:
 
