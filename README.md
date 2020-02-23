@@ -88,7 +88,7 @@ New Dataframe Image:
 		27 cities have snowfall.
 
 New DataFrame Image:
-
+!{alt text] (https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/Part_1_Dataframe.png)
 
 ### Part 2 Instructions - Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
 	1.	Create a new Jupyter Notebook file and name it Vacation_Search.ipynb.
