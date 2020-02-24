@@ -118,6 +118,9 @@ Pop-up Marker Map for 1 City Image:
 ### Part 3 Instructions - Create a Travel Itinerary with a Corresponding Map
 Create a map (travel itinerary) that shows the route between four cities from the customer’s possible travel destinations, and then create a map with pop-up markers for the four cities.
 
+Vacation Hotels Map:
+![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/Part_3_Challenge_Hotels_map.png)
+
 Vacation Itinerary Map Image:
 
 
