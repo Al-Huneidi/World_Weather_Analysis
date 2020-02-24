@@ -122,7 +122,7 @@ Vacation Hotels Map:
 ![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/Part_3_Challenge_Hotels_map.png)
 
 Vacation Itinerary Map Image:
-
+![alt text](https://github.com/Al-Huneidi/World_Weather_Analysis/blob/master/screenshots/Part_3_WeatherPy_travel_map_markers.png)
 
 Code files:
 Weather_Databas.ipynb
@@ -134,7 +134,11 @@ WeatherPy_challenge.csv
 WeatherPy_vacation.csv
 
 Image Folder:
+Part_1_Dataframe
+Part_2_Dataframe
+Part_2_WeatherPy_vacation_dataframe
+Part_3_Challenge_Hotels_map (was supposed to be named WeatherPy_travel_map_markers.png)
 WeatherPy_vacation_map.png
-WeatherPy_travel.map.png
-WeatherPy_travel_map_markers.png
+Part_3_WeatherPy_travel.map.png
+
 
